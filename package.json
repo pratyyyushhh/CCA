@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@auth0/auth0-react": "^2.2.4",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@react-oauth/google": "^0.12.1",
+    "json-env": "^1.0.1"
+  }
+}
